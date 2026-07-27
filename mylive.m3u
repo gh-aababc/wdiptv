@@ -1,0 +1,36 @@
+#EXTM3U
+#EXTINF:-1 group-title="xxx",凤凰中文
+https://cdn.qd.je/163189/fhzw
+
+#EXTINF:-1 group-title="xxx",凤凰资讯
+https://cdn.qd.je/163189/fhzx
+
+#EXTINF:-1 group-title="xxx",凤凰香港
+https://cdn.qd.je/163189/fhhk
+
+#EXTINF:-1 group-title="xxx",中天新闻
+http://173.208.234.146/live/ctinews.m3u8
+
+#EXTINF:-1 group-title="xxx",中天新闻
+https://iptv.852851.xyz/l/pTnYCJN_4dwoiNM3KDKsO9QaS_uhCZmOenzrerECR_-Og8V-uR24Van_FYU7_bm3/index.m3u8
+
+#EXTINF:-1 group-title="xxx",NHK G
+https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
+
+#EXTINF:-1 group-title="xxx",纬来电影台
+https://cdn.qd.je/163189/wldy
+
+#EXTINF:-1 group-title="xxx",纬来戏剧台
+https://cdn.qd.je/163189/wlxj
+
+#EXTINF:-1 group-title="xxx",纬来体育台
+https://cdn.qd.je/163189/wlty
+
+#EXTINF:-1 group-title="xxx",倩女幽魂1-妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+
+#EXTINF:-1 group-title="xxx",倩女幽魂2-人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+
+#EXTINF:-1 group-title="xxx",倩女幽魂3-道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
