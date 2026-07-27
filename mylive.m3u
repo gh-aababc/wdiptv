@@ -11,6 +11,9 @@ https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 group-title="xxx",中天新闻
 http://173.208.234.146/live/ctinews.m3u8
 
+#EXTINF:-1 group-title="xxx",NBA TV
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/29485
+
 #EXTINF:-1 group-title="xxx",NHK G
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 
