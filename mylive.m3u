@@ -1,9 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="xxx" tvg-name="xxx" tvg-logo="https://epg.xxx/xxx/xxx.png" group-title="xxx",凤凰资讯
+https://cdn.qd.je/163189/fhzx
+
 #EXTINF:-1 group-title="xxx",凤凰中文
 https://cdn.qd.je/163189/fhzw
-
-#EXTINF:-1 group-title="xxx",凤凰资讯
-https://cdn.qd.je/163189/fhzx
 
 #EXTINF:-1 group-title="xxx",凤凰香港
 https://cdn.qd.je/163189/fhhk
@@ -13,6 +13,30 @@ http://173.208.234.146/live/ctinews.m3u8
 
 #EXTINF:-1 group-title="xxx",NBA TV
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/29485
+
+#EXTINF:-1 group-title="xxx",ESPN
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119665
+
+#EXTINF:-1 group-title="xxx",ESPN2
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119666
+
+#EXTINF:-1 group-title="xxx",ESPNEWS
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1275
+
+#EXTINF:-1 group-title="xxx",FS1
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120160
+
+#EXTINF:-1 group-title="xxx",FS2
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120161
+
+#EXTINF:-1 group-title="xxx",WNJU Telemundo Nueva York
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109764
+
+#EXTINF:-1 group-title="xxx",KVEA Telemundo Los Ángeles
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/110009
+
+#EXTINF:-1 group-title="xxx",MUTV UK
+http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/717526
 
 #EXTINF:-1 group-title="xxx",NHK G
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
