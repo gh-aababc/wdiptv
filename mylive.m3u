@@ -1,62 +1,62 @@
 #EXTM3U
-#EXTINF:-1 group-title="xxx",凤凰资讯
+#EXTINF:-1 group-title="HK",凤凰资讯
 https://cdn.qd.je/163189/fhzx
 
-#EXTINF:-1 group-title="xxx",凤凰中文
+#EXTINF:-1 group-title="HK",凤凰中文
 https://cdn.qd.je/163189/fhzw
 
-#EXTINF:-1 group-title="xxx",凤凰香港
+#EXTINF:-1 group-title="HK",凤凰香港
 https://cdn.qd.je/163189/fhhk
 
-#EXTINF:-1 group-title="xxx",中天新闻
+#EXTINF:-1 group-title="TW",中天新闻
 http://173.208.234.146/live/ctinews.m3u8
 
-#EXTINF:-1 group-title="xxx",NBA TV
+#EXTINF:-1 group-title="GW",NBA TV
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/29485
 
-#EXTINF:-1 group-title="xxx",ESPN
+#EXTINF:-1 group-title="GW",ESPN
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119665
 
-#EXTINF:-1 group-title="xxx",ESPN2
+#EXTINF:-1 group-title="GW",ESPN2
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/119666
 
-#EXTINF:-1 group-title="xxx",ESPNEWS
+#EXTINF:-1 group-title="GW",ESPNEWS
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/1275
 
-#EXTINF:-1 group-title="xxx",FS1
+#EXTINF:-1 group-title="GW",FS1
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120160
 
-#EXTINF:-1 group-title="xxx",FS2
+#EXTINF:-1 group-title="GW",FS2
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120161
 
-#EXTINF:-1 group-title="xxx",WNJU Telemundo Nueva York
+#EXTINF:-1 group-title="GW",WNJU Telemundo Nueva York
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109764
 
-#EXTINF:-1 group-title="xxx",KVEA Telemundo Los Ángeles
+#EXTINF:-1 group-title="GW",KVEA Telemundo Los Ángeles
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/110009
 
-#EXTINF:-1 group-title="xxx",MUTV UK
+#EXTINF:-1 group-title="GW",MUTV UK
 http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/717526
 
-#EXTINF:-1 group-title="xxx",NHK G
+#EXTINF:-1 group-title="JP",NHK G
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 
-#EXTINF:-1 group-title="xxx",纬来电影台
+#EXTINF:-1 group-title="TW",纬来电影台
 https://cdn.qd.je/163189/wldy
 
-#EXTINF:-1 group-title="xxx",纬来戏剧台
+#EXTINF:-1 group-title="TW",纬来戏剧台
 https://cdn.qd.je/163189/wlxj
 
-#EXTINF:-1 group-title="xxx",纬来体育台
+#EXTINF:-1 group-title="TW",纬来体育台
 https://cdn.qd.je/163189/wlty
-#EXTINF:-1 group-title="xxx",纬来体育台
+#EXTINF:-1 group-title="TW",纬来体育台
 rtmp://f13h.mine.nu/sat/tv721
 
-#EXTINF:-1 group-title="xxx",倩女幽魂1-妖魔道
+#EXTINF:-1 group-title="MOV",倩女幽魂1-妖魔道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 
-#EXTINF:-1 group-title="xxx",倩女幽魂2-人间道
+#EXTINF:-1 group-title="MOV",倩女幽魂2-人间道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 
-#EXTINF:-1 group-title="xxx",倩女幽魂3-道道道
+#EXTINF:-1 group-title="MOV",倩女幽魂3-道道道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
