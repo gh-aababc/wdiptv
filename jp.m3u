@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="Donate/寄付: https://paypal.me/Tieptran1970" tvg-logo="https://live.fanmingming.com/tv/Donate/寄付: https://paypal.me/Tieptran1970.png" group-title="",Donate/寄付: https://paypal.me/Tieptran1970
-https://akariko−bck1.sankuria.sbs/novid/hls/radio_stream.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://live.fanmingming.com/tv/NHK G.png" group-title="",NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://live.fanmingming.com/tv/NHK G.png" group-title="",NHK G
