@@ -106,6 +106,8 @@ http://101.35.240.114:88/live.php?id=江苏卫视4K
 http://101.35.240.114:88/live.php?id=浙江卫视4K
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K8K",湖南卫视4K
 http://101.35.240.114:88/live.php?id=湖南卫视4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" http-user-agent="aliplayer" group-title="4K8K",北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 
 
 ===================
