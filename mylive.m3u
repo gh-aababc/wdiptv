@@ -60,7 +60,8 @@ http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 ===================
 ★★★★★★★★★★
 
-
+#EXTINF:-1 group-title="GW",NHK G
+https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 #EXTINF:-1 group-title="GW",NBA TV
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/29485
 #EXTINF:-1 group-title="GW",ESPN
@@ -79,8 +80,14 @@ http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/109764
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/110009
 #EXTINF:-1 group-title="GW",MUTV UK
 http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/717526
-#EXTINF:-1 group-title="GW",NHK G
-https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
+#EXTINF:-1 group-title="GW",BBC News 1080p
+https://xemzi.short.gy/1000015
+#EXTINF:-1 group-title="GW",GB News HD 2160p
+https://xemzi.short.gy/1000017
+#EXTINF:-1 group-title="GW",Sky Sports Cricket HD 1080p
+https://xemzi.short.gy/2000006
+#EXTINF:-1 group-title="GW",Sky Sports Golf HD 1080p
+https://xemzi.short.gy/2000009
 
 
 ===================
