@@ -10,7 +10,10 @@ http://173.208.234.146/live/ctinews.m3u8
 #EXTINF:-1 group-title="TW",纬来体育台
 rtmp://f13h.mine.nu/sat/tv721
 
+
 ===================
+★★★★★★★★★★
+
 
 #EXTINF:-1 group-title="GW",NBA TV
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/29485
@@ -33,7 +36,10 @@ http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/717526
 #EXTINF:-1 group-title="GW",NHK G
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 
+
 ===================
+★★★★★★★★★★
+
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
@@ -101,98 +107,505 @@ http://101.35.240.114:88/live.php?id=浙江卫视4K
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" http-user-agent="aliplayer" group-title="4K8K",湖南卫视4K
 http://101.35.240.114:88/live.php?id=湖南卫视4K
 
-===================
-
-#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png" group-title="4GTV",寰宇新闻台
-http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台湾台.png" group-title="4GTV",寰宇新闻台湾台
-http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="镜电视新闻台" tvg-logo="https://live.fanmingming.com/tv/镜电视新闻台.png" group-title="4GTV",镜电视新闻台
-http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="4GTV",中天新闻台
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="4GTV",中视新闻
-http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="TVBS电视台" tvg-logo="https://live.fanmingming.com/tv/TVBS电视台.png" group-title="4GTV",TVBS电视台
-http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="TVBS剧场" tvg-logo="https://live.fanmingming.com/tv/TVBS剧场.png" group-title="4GTV",TVBS剧场
-http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="4GTV",TVBS新闻
-http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="4GTV",TVBS欢乐台
-http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://live.fanmingming.com/tv/TVBS精采台.png" group-title="4GTV",TVBS精采台
-http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="TVBS综艺台" tvg-logo="https://live.fanmingming.com/tv/TVBS综艺台.png" group-title="4GTV",TVBS综艺台
-http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://live.fanmingming.com/tv/东森新闻台.png" group-title="4GTV",东森新闻台
-http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻台.png" group-title="4GTV",东森财经新闻台
-http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="三立新闻iNEWS" tvg-logo="https://live.fanmingming.com/tv/三立新闻iNEWS.png" group-title="4GTV",三立新闻iNEWS
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://live.fanmingming.com/tv/三立综合台.png" group-title="4GTV",三立综合台
-http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="4GTV",华视新闻
-http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.com/tv/民视台湾.png" group-title="4GTV",民视台湾
-http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="4GTV",民视新闻台
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="4GTV",民视第一台
-http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="民视综艺台" tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="4GTV",民视综艺台
-http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://live.fanmingming.com/tv/公视戏剧.png" group-title="4GTV",公视戏剧
-http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="原住民族电视台" tvg-logo="https://live.fanmingming.com/tv/原住民族电视台.png" group-title="4GTV",原住民族电视台
-http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://live.fanmingming.com/tv/客家电视台.png" group-title="4GTV",客家电视台
-http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="猪哥亮歌厅秀" tvg-logo="https://live.fanmingming.com/tv/猪哥亮歌厅秀.png" group-title="4GTV",猪哥亮歌厅秀
-http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="金光布袋戏" tvg-logo="https://live.fanmingming.com/tv/金光布袋戏.png" group-title="4GTV",金光布袋戏
-http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://live.fanmingming.com/tv/大爱二台.png" group-title="4GTV",大爱二台
-http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="大爱电视台" tvg-logo="https://live.fanmingming.com/tv/大爱电视台.png" group-title="4GTV",大爱电视台
-http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="4GTV",人间卫视
-http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://live.fanmingming.com/tv/八大精彩台.png" group-title="4GTV",八大精彩台
-http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="八大综艺台" tvg-logo="https://live.fanmingming.com/tv/八大综艺台.png" group-title="4GTV",八大综艺台
-http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="尼克儿童频道" tvg-logo="https://live.fanmingming.com/tv/尼克儿童频道.png" group-title="4GTV",尼克儿童频道
-http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="影迷数字电影台" tvg-logo="https://live.fanmingming.com/tv/影迷数字电影台.png" group-title="4GTV",影迷数字电影台
-http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://live.fanmingming.com/tv/达文西频道.png" group-title="4GTV",达文西频道
-http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://live.fanmingming.com/tv/采昌影剧台.png" group-title="4GTV",采昌影剧台
-http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/靖天卡通台.png" group-title="4GTV",靖天卡通台
-http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧台.png" group-title="4GTV",靖天戏剧台
-http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://live.fanmingming.com/tv/靖天日本台.png" group-title="4GTV",靖天日本台
-http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="4GTV",靖天映画
-http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://live.fanmingming.com/tv/靖天综合台.png" group-title="4GTV",靖天综合台
-http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://live.fanmingming.com/tv/靖天育乐台.png" group-title="4GTV",靖天育乐台
-http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://live.fanmingming.com/tv/靖天资讯台.png" group-title="4GTV",靖天资讯台
-http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://live.fanmingming.com/tv/靖天电影台.png" group-title="4GTV",靖天电影台
-http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通Nice Bingo.png" group-title="4GTV",靖洋卡通Nice Bingo
-http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
-#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧台.png" group-title="4GTV",靖洋戏剧台
-http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
 
 ===================
+Juli提供的港澳台频道：https://cdn.qd.je/live.m3u
+★★★★★★★★★★
+
+
+#EXTM3U url-tvg="https://epg.cdn.loc.cc/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台4K(字幕)
+
+https://cdn.qd.je/163189/fct4k
+
+#EXTINF:-1 tvg-name="凤凰中文" group-title="mytv",凤凰中文
+
+https://cdn.qd.je/163189/fhzw
+
+#EXTINF:-1 tvg-name="RTHK33" group-title="mytv",CCTV1港澳版
+
+https://cdn.qd.je/163189/cctv1
+
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
+
+https://cdn.qd.je/163189/cctv13-2
+
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus(字幕)
+
+https://cdn.qd.je/163189/tvbp
+
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+
+https://cdn.qd.je/163189/hoy
+
+#EXTINF:-1 tvg-name="HOY77" group-title="mytv",HOY TV
+
+https://cdn.qd.je/163189/hoy2
+
+#EXTINF:-1 tvg-name="HOY78" group-title="mytv",HOY资讯台
+
+https://cdn.qd.je/163189/hoy78
+
+#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="mytv",HOY国际财经台
+
+https://cdn.qd.je/163189/hoy76
+
+#EXTINF:-1 tvg-name="ViuTV" group-title="mytv",ViuTV
+
+https://cdn.qd.je/163189/viu
+
+#EXTINF:-1 tvg-name="ViuTVsix" group-title="mytv",ViuTVsix
+
+https://cdn.qd.je/163189/viu6
+
+#EXTINF:-1 tvg-name="Now新聞台" group-title="mytv",NOW新闻台
+
+https://cdn.qd.je/163189/now
+
+#EXTINF:-1 tvg-name="RTHK31" group-title="mytv",RTHK31
+
+https://cdn.qd.je/163189/rthk31
+
+#EXTINF:-1 tvg-name="RTHK32" group-title="mytv",RTHK32
+
+https://cdn.qd.je/163189/rthk32
+
+#EXTINF:-1 tvg-name="澳视澳门" group-title="mytv",澳视澳门
+
+https://cdn.qd.je/163189/asam
+
+#EXTINF:-1 tvg-name="澳视卫星" group-title="mytv",澳视卫星
+
+https://cdn.qd.je/163189/as
+
+#EXTINF:-1 tvg-name="澳视体育" group-title="mytv",澳门体育
+
+https://cdn.qd.je/163189/amty
+
+#EXTINF:-1 tvg-name="澳视综艺" group-title="mytv",澳门综艺
+
+https://cdn.qd.je/163189/amzy
+
+#EXTINF:-1 tvg-name="澳门莲花" group-title="mytv",澳门莲花
+
+https://cdn.qd.je/163189/amlh
+
+#EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
+
+https://cdn.qd.je/163189/cwjd
+
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="mytv",凤凰资讯
+
+https://cdn.qd.je/163189/fhzx
+
+#EXTINF:-1 tvg-name="凤凰香港" group-title="mytv",凤凰香港
+
+https://cdn.qd.je/163189/fhhk
+
+#EXTINF:-1 tvg-name="TVB1" group-title="mytv",TVB1
+
+https://cdn.qd.je/163189/tvb1
+
+#EXTINF:-1 tvg-name="TVBJ1" group-title="mytv",TVBJ1
+
+https://cdn.qd.je/163189/j1
+
+#EXTINF:-1 tvg-name="翡翠剧集台" group-title="mytv",翡翠剧集台
+
+https://cdn.qd.je/163189/tvbd
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台
+
+https://cdn.qd.je/163189/fct
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(字幕)
+
+https://cdn.qd.je/163189/fct2
+
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(字幕)
+
+https://cdn.qd.je/163189/mzt
+
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+
+https://cdn.qd.je/163189/wxxw
+
+#EXTINF:-1 tvg-name="广东珠江" group-title="mytv",广东珠江
+
+https://cdn.qd.je/163189/gdzj
+
+#EXTINF:-1 tvg-name="广东体育" group-title="mytv",广东体育
+
+https://cdn.qd.je/163189/gdty
+
+#EXTINF:-1 tvg-name="八度空间" group-title="mytv",八度空间
+
+https://cdn.qd.je/163189/8tv
+
+#EXTINF:-1 tvg-name="Channel 5" group-title="mytv",CH5
+
+https://cdn.qd.je/163189/ch5
+
+#EXTINF:-1 tvg-name="Channel 8" group-title="mytv",CH8
+
+https://cdn.qd.je/163189/ch8
+
+#EXTINF:-1 tvg-name="Channel U" group-title="mytv",CHU
+
+https://cdn.qd.je/163189/chu
+
+#EXTINF:-1 tvg-name="龍華電影" group-title="mytv",龙华电影
+
+https://cdn.qd.je/163189/lhdy
+
+#EXTINF:-1 tvg-name="龍華經典" group-title="mytv",龙华经典
+
+https://cdn.qd.je/163189/lhjd
+
+#EXTINF:-1 tvg-name="龍華偶像" group-title="mytv",龙华偶像
+
+https://cdn.qd.je/163189/lhox
+
+#EXTINF:-1 tvg-name="龍華日韓" group-title="mytv",龙华日韩
+
+https://cdn.qd.je/163189/lhrh
+
+#EXTINF:-1 tvg-name="龍華戲劇" group-title="mytv",龙华戏剧
+
+https://cdn.qd.je/163189/lhxj
+
+#EXTINF:-1 tvg-name="龍華洋片" group-title="mytv",龙华洋片
+
+https://cdn.qd.je/163189/lhyp
+
+#EXTINF:-1 tvg-name="龍華卡通" group-title="mytv",龙华卡通
+
+https://cdn.qd.je/163189/lhkt
+
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戏
+
+https://cdn.qd.je/163189/jgbdx
+
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台
+
+https://cdn.qd.je/163189/hlfct
+
+#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="mytv",TVB亚洲武侠
+
+https://cdn.qd.je/163189/yzwx
+
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="mytv",TVB娱乐新闻台
+
+https://cdn.qd.je/163189/ylxw
+
+#EXTINF:-1 tvg-name="无线新闻" group-title="mytv",无线新闻台
+
+https://cdn.qd.je/163189/wxxwt
+
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+
+https://cdn.qd.je/163189/tvbxh
+
+#EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
+
+https://cdn.qd.je/163189/hxws
+
+#EXTINF:-1 tvg-name="海峡卫视" group-title="mytv",海峡卫视
+
+https://cdn.qd.je/163189/hxws2
+
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+
+https://cdn.qd.je/163189/xinghe
+
+#EXTINF:-1 tvg-name="天映新加坡" group-title="mytv",天映新加坡
+
+https://cdn.qd.je/163189/typd
+
+#EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
+
+https://cdn.qd.je/163189/ccm
+
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台
+
+https://cdn.qd.je/163189/hlt
+
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台(硬字幕)
+
+https://cdn.qd.je/163189/jade
+
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="mytv",华丽翡翠台(新加坡)
+
+https://cdn.qd.je/163189/jade2
+
+#EXTINF:-1 tvg-name="AOD" group-title="mytv",Astro AOD
+
+https://cdn.qd.je/163189/aod
+
+#EXTINF:-1 tvg-name="AEC" group-title="mytv",Astro AEC
+
+https://cdn.qd.je/163189/aec
+
+#EXTINF:-1 tvg-name="QJ" group-title="mytv",Astro QJ
+
+https://cdn.qd.je/163189/qj
+
+#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="mytv",Astro欢喜台
+
+https://cdn.qd.je/163189/hxt
+
+#EXTINF:-1 tvg-name="iQIYI" group-title="mytv",爱奇艺
+
+https://cdn.qd.je/163189/iqiyi
+
+#EXTINF:-1 tvg-name="天映马来西亚" group-title="mytv",天映频道
+
+https://cdn.qd.je/163189/typd2
+
+#EXTINF:-1 tvg-name="天映经典" group-title="mytv",天映经典
+
+https://cdn.qd.je/163189/ccm2
+
+#EXTINF:-1 tvg-name="TVB星河" group-title="mytv",TVB星河
+
+https://cdn.qd.je/163189/tvbxh2
+
+#EXTINF:-1 tvg-name="千禧經典台" group-title="mytv",千禧经典台
+
+https://cdn.qd.je/163189/tvbc
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="mytv",翡翠台(WebVTT字幕)
+
+https://cdn.qd.je/163189/fctvtt
+
+#EXTINF:-1 tvg-name="明珠台" group-title="mytv",明珠台(WebVTT字幕)
+
+https://cdn.qd.je/163189/mztvtt
+
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus(WebVTT字幕)
+
+https://cdn.qd.je/163189/tvbpvtt
+
+#EXTINF:-1 tvg-name="黃金華劇台" group-title="mytv",黄金华剧台(WebVTT字幕)
+
+https://cdn.qd.je/163189/hjhjt
+
+#EXTINF:-1 tvg-name="CCTV1" group-title="mytv",CCTV1
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+
+#EXTINF:-1 tvg-name="CCTV2" group-title="mytv",CCTV2
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+
+#EXTINF:-1 tvg-name="CCTV3" group-title="mytv",CCTV3
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+
+#EXTINF:-1 tvg-name="CCTV4" group-title="mytv",CCTV4
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
+
+#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5
+
+https://cdn.qd.je/163189/cctv5
+
+#EXTINF:-1 tvg-name="CCTV5" group-title="mytv",CCTV5
+
+https://cdn.qd.je/163189/cctv5-2
+
+#EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
+
+#EXTINF:-1 tvg-name="CCTV5+" group-title="mytv",CCTV5+
+
+https://cdn.qd.je/163189/cctv5p-2
+
+#EXTINF:-1 tvg-name="CCTV6" group-title="mytv",CCTV6
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+
+#EXTINF:-1 tvg-name="CCTV7" group-title="mytv",CCTV7
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
+
+#EXTINF:-1 tvg-name="CCTV8" group-title="mytv",CCTV8
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
+
+#EXTINF:-1 tvg-name="CCTV9" group-title="mytv",CCTV9
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
+
+#EXTINF:-1 tvg-name="CCTV10" group-title="mytv",CCTV10
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+
+#EXTINF:-1 tvg-name="CCTV11" group-title="mytv",CCTV11
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+
+#EXTINF:-1 tvg-name="CCTV12" group-title="mytv",CCTV12
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+
+#EXTINF:-1 tvg-name="CCTV13" group-title="mytv",CCTV13
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+
+#EXTINF:-1 tvg-name="CCTV14" group-title="mytv",CCTV14
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+
+#EXTINF:-1 tvg-name="CCTV15" group-title="mytv",CCTV15
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
+
+#EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+
+#EXTINF:-1 tvg-name="CCTV16" group-title="mytv",CCTV16
+
+https://cdn.qd.je/163189/cctv16-2
+
+#EXTINF:-1 tvg-name="CCTV17" group-title="mytv",CCTV17
+
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
+
+#EXTINF:-1 tvg-name="重温经典" group-title="mytv",重温经典
+
+https://cdn.qd.je/163189/cwjd2
+
+#EXTINF:-1 tvg-name="广州综合" group-title="mytv",广州综合
+
+https://cdn.qd.je/163189/gzzh
+
+#EXTINF:-1 tvg-name="广州新闻" group-title="mytv",广州新闻
+
+https://cdn.qd.je/163189/gzxw
+
+#EXTINF:-1 tvg-name="南国都市4K" group-title="mytv",广州南国都市
+
+https://cdn.qd.je/163189/ngds
+
+#EXTINF:-1 tvg-name="五星体育" group-title="mytv",五星体育
+
+https://cdn.qd.je/163189/wxty
+
+#EXTINF:-1 tvg-name="民視影劇台" group-title="mytv",民视影剧台
+
+https://cdn.qd.je/163189/msyj
+
+#EXTINF:-1 tvg-name="公視戲劇" group-title="mytv",公视戏剧
+
+https://cdn.qd.je/163189/gsxj
+
+#EXTINF:-1 tvg-name="采昌影劇台" group-title="mytv",采昌影剧台
+
+https://cdn.qd.je/163189/ccyj
+
+#EXTINF:-1 tvg-name="靖天映畫" group-title="mytv",靖天映画
+
+https://cdn.qd.je/163189/jtyh
+
+#EXTINF:-1 tvg-name="靖天戲劇台" group-title="mytv",靖天戏剧台
+
+https://cdn.qd.je/163189/jtxj
+
+#EXTINF:-1 tvg-name="靖天電影台" group-title="mytv",靖天电影台
+
+https://cdn.qd.je/163189/jtdy
+
+#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="mytv",靖洋戏剧台
+
+https://cdn.qd.je/163189/jyxj
+
+#EXTINF:-1 tvg-name="影迷數位電影台" group-title="mytv",影迷数位电影台
+
+https://cdn.qd.je/163189/ymswdyt
+
+#EXTINF:-1 tvg-name="amc電影台" group-title="mytv",amc电影台
+
+https://cdn.qd.je/163189/amc
+
+#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="mytv",CinemaWorld
+
+https://cdn.qd.je/163189/cinemaworld
+
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="mytv",My Cinema Europe
+
+https://cdn.qd.je/163189/mce
+
+#EXTINF:-1 tvg-name="經典電影台" group-title="mytv",经典电影台
+
+https://cdn.qd.je/163189/jddyt
+
+#EXTINF:-1 tvg-name="電影原聲台CMusic" group-title="mytv",CMusic
+
+https://cdn.qd.je/163189/cmusic
+
+#EXTINF:-1 tvg-name="DreamWorks" group-title="mytv",DreamWorks梦工厂动画
+
+https://cdn.qd.je/163189/dreamworks
+
+#EXTINF:-1 tvg-name="精選動漫台" group-title="mytv",精选动漫台
+
+https://cdn.qd.je/163189/jxdmt
+
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="mytv",金光布袋戏
+
+https://cdn.qd.je/163189/jgbdx2
+
+#EXTINF:-1 tvg-name="TVB Plus" group-title="mytv",TVB Plus
+
+https://cdn.qd.je/163189/tvbp2
+
+#EXTINF:-1 tvg-name="纬来电影台" group-title="mytv",纬来电影台
+
+https://cdn.qd.je/163189/wldy
+
+#EXTINF:-1 tvg-name="纬来戏剧台" group-title="mytv",纬来戏剧台
+
+https://cdn.qd.je/163189/wlxj
+
+#EXTINF:-1 tvg-name="纬来体育台" group-title="mytv",纬来体育台
+
+https://cdn.qd.je/163189/wlty
+
+#EXTINF:-1 tvg-name="龙祥时代" group-title="mytv",龙祥时代
+
+https://cdn.qd.je/163189/lxsd
+
+#EXTINF:-1 tvg-name="东森电影" group-title="mytv",东森电影
+
+https://cdn.qd.je/163189/dsdy
+
+#EXTINF:-1 tvg-name="东森戏剧" group-title="mytv",东森戏剧
+
+https://cdn.qd.je/163189/dsxj
+
+#EXTINF:-1 tvg-name="东森洋片" group-title="mytv",东森洋片
+
+https://cdn.qd.je/163189/dsyp
+
+#EXTINF:-1 tvg-name="咪咕4K" group-title="mytv",咪咕4K(限移动网络)
+
+http://r.jdshipin.com/ln4xk
+
+#EXTINF:-1 tvg-name="咪咕4K-2" group-title="mytv",咪咕4K-2(限移动网络)
+
+http://r.jdshipin.com/Lqdwf
+
+
+===================
+日本1:https://raw.githubusercontent.com/TvJapan/iptv-jp/refs/heads/main/jp_relay.m3u
+★★★★★★★★★★
+
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="joakdtv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
 
@@ -566,7 +979,11 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=cs15#.m3u8
 
 https://naori-test.netgenx.site/pxx.php?shk_cid=cs11#.m3u8
 
+
 ===================
+日本2:https://gitflic.ru/project/reaperc/jp-iptv/blob/raw?file=JP_Categories.m3u
+★★★★★★★★★★
+
 
 # === ラクテンTV ===
 
@@ -1058,7 +1475,11 @@ https://akariko-bck1.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?m
 #EXTINF:-1 group-title="CS放送" tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
 https://akariko-bck1.sankuria.sbs/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 
+
 ===================
+韩国：https://gitflic.ru/project/reaperc/kr-tv/blob/raw?file=KR_Categories.m3u
+★★★★★★★★★★
+
 
 #EXTINF:-1 tvg-id="arirang.kr" tvg-name="Arirang Korea" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/960px-Arirang.svg.png",Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -1331,7 +1752,10 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime#.m3u8
 #EXTINF:-1 tvg-id="tvN SPORTS.kr" tvg-name="tvN Sports" group-title="Sports" tvg-logo="https://iptv-epg.org/images/maIcE3tY6DI3qjW18t9UwI4sgI-Bu4GqGsvxcEqrepAazsHzyo_DLmtSJY3y_aCLEOCTuLk5QzEfQpamtGDE9MO0VnerE5vddhvsJfp7Iy7C",tvN Sports
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports#.m3u8
 
+
 ===================
+★★★★★★★★★★
+
 
 #EXTINF:-1 group-title="MOV",倩女幽魂1-妖魔道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
@@ -1340,6 +1764,12 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 #EXTINF:-1 group-title="MOV",倩女幽魂3-道道道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
 
+
 ===================
+★★★★★★★★★★
 ===================
+★★★★★★★★★★
 ===================
+★★★★★★★★★★
+
+
