@@ -87,38 +87,6 @@ https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 ★★★★★★★★★★
 
 
-#EXTINF:-1 group-title="央视IPV4",CCTV1
-http://101.35.240.114:88/live.php?id=CCTV1
-#EXTINF:-1 group-title="央视IPV4",CCTV2
-http://101.35.240.114:88/live.php?id=CCTV2
-#EXTINF:-1 group-title="央视IPV4",CCTV3
-http://101.35.240.114:88/live.php?id=CCTV3
-#EXTINF:-1 group-title="央视IPV4",CCTV4
-http://101.35.240.114:88/live.php?id=CCTV4
-#EXTINF:-1 group-title="央视IPV4",CCTV5
-http://101.35.240.114:88/live.php?id=CCTV5
-#EXTINF:-1 group-title="央视IPV4",CCTV5+
-http://101.35.240.114:88/live.php?id=CCTV5p
-#EXTINF:-1 group-title="央视IPV4",CCTV6
-http://101.35.240.114:88/live.php?id=CCTV6
-#EXTINF:-1 group-title="央视IPV4",CCTV7
-http://101.35.240.114:88/live.php?id=CCTV7
-#EXTINF:-1 group-title="央视IPV4",CCTV8
-http://101.35.240.114:88/live.php?id=CCTV8
-#EXTINF:-1 group-title="央视IPV4",CCTV9
-http://101.35.240.114:88/live.php?id=CCTV9
-#EXTINF:-1 group-title="央视IPV4",CCTV10
-http://101.35.240.114:88/live.php?id=CCTV10
-#EXTINF:-1 group-title="央视IPV4",CCTV11
-http://101.35.240.114:88/live.php?id=CCTV11
-#EXTINF:-1 group-title="央视IPV4",CCTV12
-http://101.35.240.114:88/live.php?id=CCTV12
-#EXTINF:-1 group-title="央视IPV4",CCTV13
-http://101.35.240.114:88/live.php?id=CCTV13
-#EXTINF:-1 group-title="央视IPV4",CCTV14
-http://101.35.240.114:88/live.php?id=CCTV14
-#EXTINF:-1 group-title="央视IPV4",CCTV15
-http://101.35.240.114:88/live.php?id=CCTV15
 #EXTINF:-1 group-title="央视IPV4",CGTN英语
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="央视IPV4",CGTN纪录
@@ -131,28 +99,6 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 group-title="央视IPV4",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
-
-
-#EXTINF:-1 group-title="卫视IPV4",凤凰资讯
-http://101.35.240.114:88/phenix.php?id=fhzx
-#EXTINF:-1 group-title="卫视IPV4",湖南卫视
-http://101.35.240.114:88/live.php?id=湖南卫视
-#EXTINF:-1 group-title="卫视IPV4",深圳卫视
-http://101.35.240.114:88/live.php?id=深圳卫视
-#EXTINF:-1 group-title="卫视IPV4",浙江卫视
-http://101.35.240.114:88/live.php?id=浙江卫视
-#EXTINF:-1 group-title="卫视IPV4",江苏卫视
-http://101.35.240.114:88/live.php?id=江苏卫视
-
-
-#EXTINF:-1 group-title="4K8K",深圳卫视4K
-http://101.35.240.114:88/live.php?id=深圳卫视4K
-#EXTINF:-1 group-title="4K8K",江苏卫视4K
-http://101.35.240.114:88/live.php?id=江苏卫视4K
-#EXTINF:-1 group-title="4K8K",浙江卫视4K
-http://101.35.240.114:88/live.php?id=浙江卫视4K
-#EXTINF:-1 group-title="4K8K",湖南卫视4K
-http://101.35.240.114:88/live.php?id=湖南卫视4K
 
 
 ===================
