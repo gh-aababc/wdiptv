@@ -60,6 +60,7 @@ http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
 ===================
 ★★★★★★★★★★
 
+
 #EXTINF:-1 group-title="GW",NHK G
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
 #EXTINF:-1 group-title="GW",NBA TV
@@ -96,6 +97,92 @@ https://xemzi.short.gy/2000002
 https://xemzi.short.gy/2000010
 #EXTINF:-1 group-title="GW",Sky news
 https://xemzi.short.gy/1000018
+#EXTINF:-1 group-title="GW",ABC
+http://40.160.24.52/ABC/index.m3u8
+#EXTINF:-1 group-title="GW",Fox
+http://40.160.24.52/FOX/index.m3u8
+#EXTINF:-1 group-title="GW",BBC America
+http://40.160.24.52/BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="GW",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 group-title="GW",Fox News Channel
+http://40.160.24.52/FOX_NEWS/index.m3u8
+#EXTINF:-1 group-title="GW" ,Fox Business Network
+http://40.160.24.58/FOX_BUSINESS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="GW",CBS News 24/7
+http://40.160.24.56/CBS_NEWS/index.m3u8
+#EXTINF:-1 group-title="GW",NBC News NOW
+http://40.160.24.53/NBC_NEWS_NOW/index.m3u8
+#EXTINF:-1 group-title="GW",Scripps News
+http://40.160.24.53/SCRIPPS_NEWS/index.m3u8
+#EXTINF:-1 group-title="GW",Cheddar News
+http://40.160.24.52/CHEDDAR_NEWS/index.m3u8
+#EXTINF:-1 group-title="GW" CheddarU
+http://40.160.24.52/CHEDDAR_BUSINESS/index.m3u8
+#EXTINF:-1 group-title="GW",C-SPAN
+http://40.160.24.52/C-SPAN_HD/index.m3u8
+#EXTINF:-1 group-title="GW",C-SPAN 2
+http://40.160.24.52/C-SPAN_2/index.m3u8
+#EXTINF:-1 group-title="GW",MSG
+http://40.160.24.52/MSG/index.m3u8
+#EXTINF:-1 group-title="GW",MSG 2
+http://40.160.24.52/MSG_2/index.m3u8
+#EXTINF:-1 group-title="GW",MSG Plus
+http://40.160.24.52/MSG_PLUS/index.m3u8
+#EXTINF:-1 group-title="GW",ESPNU
+http://40.160.24.52/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="GW",ESPNews
+http://40.160.24.52/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="GW",SEC Network
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="GW",ACC Network
+http://40.160.24.52/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="GW",FanDuel TV
+http://40.160.24.55/TVG/index.m3u8
+#EXTINF:-1 group-title="GW",Fox Soccer Plus
+http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8
+#EXTINF:-1 group-title="GW",Fox Deportes
+http://40.160.24.58/FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="GW",NBA TV
+http://40.160.24.58/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="GW",NFL Network
+http://40.160.24.53/NFL_Network/index.m3u8
+#EXTINF:-1 group-title="GW",NHL Network
+http://40.160.24.55/NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="GW",Golf Channel
+http://40.160.24.52/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="GW",Tennis Channel
+http://40.160.24.55/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="GW",Racer Network
+http://40.160.24.52/MAV_TV/index.m3u8
+#EXTINF:-1 group-title="GW",MLB Network
+http://40.160.24.52/MLB_Network/index.m3u8
+#EXTINF:-1 group-title="GW",SportsNet New York
+http://40.160.24.55/SNY/index.m3u8
+#EXTINF:-1 group-title="GW",Marquee Sports Network
+http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="GW",Sportsman Channel
+http://40.160.24.55/Sportsman_Channel/index.m3u8
+#EXTINF:-1 group-title="GW",TBN
+http://40.160.24.55/TBN/index.m3u8
+#EXTINF:-1 group-title="GW",HSN
+http://40.160.24.53/HSN/index.m3u8
+#EXTINF:-1 group-title="GW",QVC
+http://40.160.24.55/QVC/index.m3u8
+#EXTINF:-1 group-title="GW",Start TV
+http://40.160.24.55/START_TV/index.m3u8
+#EXTINF:-1 group-title="GW",Grit
+http://40.160.24.52/GRIT/index.m3u8
+#EXTINF:-1 group-title="GW",Grit
+http://40.160.24.52/FOX/index.m3u8
+#EXTINF:-1 group-title="GW",Game Show Network
+http://40.160.24.52/GSN/index.m3u8
+#EXTINF:-1 group-title="GW",STARZ ENCORE
+https://sra72yz.s.gy/STARZ_ENCORE_WEST_US
+#EXTINF:-1 group-title="GW",THE MOVIE CHANNEL
+https://sra72yz.s.gy/THE_MOVIE_CHANNEL_WEST
+#EXTINF:-1 group-title="GW",THE MOVIE CHANNEL XTRA
+https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST
 
 
 ===================
