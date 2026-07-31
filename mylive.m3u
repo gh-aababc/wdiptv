@@ -12,6 +12,9 @@ rtmp://f13h.mine.nu/sat/tv721
 
 
 
+
+
+
 ===================
 卫视
 #EXTINF:-1 group-title="卫视",五星体育
@@ -58,6 +61,9 @@ http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+
+
+
 
 
 
@@ -190,12 +196,18 @@ https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST
 
 
 
+
+
+
 ===================
 CatVod Navigation
 #EXTINF:-1 group-title="CatVod Navigation",Arena
 https://live.catvod.com/?id=L2xyL2RMUU9ubGQyakJzN3pVSXlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPWVmNDhhYzYxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
 #EXTINF:-1 group-title="CatVod Navigation",Arena2
 https://live.catvod.com/?id=L2xyL2RMUU9ubGQyakJzN3pVSXlkcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0xOTZiY2MwMCZjbj0xZTBkNTg0YyZjcD00NjZlNmE4NSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+
+
+
 
 
 
@@ -216,6 +228,73 @@ https://0472.org/hls/cgtne.m3u8
 
 
 
+
+
+
+===================
+央视频道
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10%E7%A7%91%E6%95%99.png" group-title="①央视频道",CCTV10科教
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MjQ4Nzg0MDUmdG9rZW49ZGU3ODI0ZGYzZTVlZmYyYjhjMzBiMmVhZjEyYzI1ZmM&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11%E6%88%8F%E6%9B%B2.png" group-title="①央视频道",CCTV11戏曲
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02Njc5ODc1NTgmdG9rZW49NGY0ZmU5MjFjZTJlZTE3Y2RjYjZjNTc2ODJmM2FlYjk&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png" group-title="①央视频道",CCTV12社会与法
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02NzMxNjgxODUmdG9rZW49NDZiMWU3MzlmMTBiNDIyNThmZDVjYzcyMDYwODQ2ZDE&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13%E6%96%B0%E9%97%BB.png" group-title="①央视频道",CCTV13新闻
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDg4MDc0MjMmdG9rZW49Y2M0N2UzODQ3NzliMGFmYzg4NzBiZGZjOTgzZTcxMjE&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14%E5%B0%91%E5%84%BF.png" group-title="①央视频道",CCTV14少儿
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MjQ4Nzg0NDAmdG9rZW49ZWE2NjBkODUwZGVkNjFkMDgxNmYxNzA0NzlkZTY3MGY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15%E9%9F%B3%E4%B9%90.png" group-title="①央视频道",CCTV15音乐
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02NzMxNjgyMjMmdG9rZW49ZjI3MmQ3MDQ3YTkwMTg5ZWI1Yzk4ODBiM2VjOWQ0NWQ&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91.png" group-title="①央视频道",CCTV17农业农村
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02NzMxNjgyNTYmdG9rZW49ZGQ2N2E2MDBlOTExZWVlMGFjMzcxOTUyN2M1YmVkZmY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1%E7%BB%BC%E5%90%88.png" group-title="①央视频道",CCTV1综合
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDg4MDc0MjAmdG9rZW49OWNmMGE2NmY3ZWExNDU1NWM0YTA5YmYyNmUzODUwNTM&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2%E8%B4%A2%E7%BB%8F.png" group-title="①央视频道",CCTV2财经
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MzE3ODA1MzImdG9rZW49MzRiMjI0NmE5M2NlMWQ0MWY3ZjA4MWMzMmM5ZDRlMTc&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3%E7%BB%BC%E8%89%BA.png" group-title="①央视频道",CCTV3综艺
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MjQ4NzgyNzEmdG9rZW49MDdiNGU4NzgzZTMwOTZkN2RhZTMxOTRjMmFhYzdiZDA&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.png" group-title="①央视频道",CCTV4中文国际
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MzE3ODA0MjEmdG9rZW49NWExZGUwOTIwYTU3MjM2YzRkYWRjZDljMTA1ZmM1N2I&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="①央视频道",CCTV4欧洲
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDg4MDc0MTkmdG9rZW49MmMwZTk0MmEwOTE1NDk0NjIzZGQ4ZjJmYzg1NThkN2U&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="①央视频道",CCTV4美洲
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDg4MDc0MTYmdG9rZW49YTUzMGU3N2ExYmE5YjVhZGQwMDk0OTBlYjQ3Yjk1MzY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5%2B%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png" group-title="①央视频道",CCTV5+体育赛事
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02NDE4ODY3NzMmdG9rZW49OTU5MThlMzk5ODQ0ZDhhOWUwMmY2OTU5MTY2YjU4ZDQ&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5%E4%BD%93%E8%82%B2.png" group-title="①央视频道",CCTV5体育
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02NDE4ODY2ODMmdG9rZW49MTY2OTQ4NDE1MjM0NTg0YTZjZmY2Y2RkOTA3Njg5ZGM&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV6电影" tvg-name="CCTV6电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6%E7%94%B5%E5%BD%B1.png" group-title="①央视频道",CCTV6电影
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MjQ4NzgzOTYmdG9rZW49NzZjMDM1ODRlMzc1MWQ5ZTE2YjRjMjM5YWJhMTE5MjA&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B.png" group-title="①央视频道",CCTV7国防军事
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02NzMxNjgxMjEmdG9rZW49YjBhYWQ3YWQ0NTE5ZDVhZGFiNzU1NTE3ZmU2Y2Y4Yzc&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="①央视频道",CCTV8电视剧
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MjQ4NzgzNTYmdG9rZW49NWQxZDJmN2ZlYzRkMjliZDczZWQ2NTA4MjhjYzNmMjc&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9%E7%BA%AA%E5%BD%95.png" group-title="①央视频道",CCTV9纪录
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02NzMxNjgxNDAmdG9rZW49NjQ3ZTkzYjk0ODZjYzdlNTBlOWIwMTIwYWNkNzQ2Yjc&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="①央视频道",CGTN
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDkwMTcyMDUmdG9rZW49OWQ5OTYxZGUzYjRjOGJiMDkwM2RlZGIzYmFlYzU0N2E&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN%E4%BF%84%E8%AF%AD.png" group-title="①央视频道",CGTN俄语
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDkwMDY0NDYmdG9rZW49NjRiNzlmM2M3Y2Y4YzEyMWMzMTFmZDM5MWNkY2U2ZDU&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN%E5%A4%96%E8%AF%AD%E7%BA%AA%E5%BD%95.png" group-title="①央视频道",CGTN外语纪录
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDkwMDY0ODcmdG9rZW49NzlmYjc2ZjYyOWQ0MGUxZGVjYWNkMDM2MjhkYzA3MDI&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN%E6%B3%95%E8%AF%AD.png" group-title="①央视频道",CGTN法语
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDkwMDY0NzYmdG9rZW49ZGM5Nzc0MDA2Mjg0MGUzODlmMzY3N2U0NTYzMzVhOWY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD.png" group-title="①央视频道",CGTN西班牙语
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDkwMDY0NTAmdG9rZW49NTU3NjU0MWFkZWJhMjU2YWQ2NWM2MTg1YTdiNTFmMWI&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://live.fanmingming.com/tv/CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD.png" group-title="①央视频道",CGTN阿拉伯语
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MDkxNTQzNDUmdG9rZW49YmY3NjRhMTM1NzFhNGZhMzEyODE1NmU3OGE3OGQ5MjU&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.fanmingming.com/tv/%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="①央视频道",中学生
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD03MDg4Njk1MzImdG9rZW49NDUwYTQwYTg4MmVjNjlmNTc4ODk1MTMyZjZmNDVkMDE&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://live.fanmingming.com/tv/%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85.png" group-title="①央视频道",发现之旅
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD02MjQ4Nzg5NzAmdG9rZW49ZDc5MWE3YmFkYjJiOGY2NTVkY2M0NmY2ZDRiOTJmNjU&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/%E8%80%81%E6%95%85%E4%BA%8B.png" group-title="①央视频道",老故事
+https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20vbWlndT9pZD04ODQxMjE5NTYmdG9rZW49YzI1ZTk0NTkxMWRjYzYzZWY4ZTRhOTI0YzI1YmMxM2M&tk=e5e3a2968f883137dfb35c8c583cca76
+
+
+
+
+
+
 ===================
 MOV
 #EXTINF:-1 group-title="MOV",倩女幽魂1-妖魔道
@@ -224,6 +303,9 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 #EXTINF:-1 group-title="MOV",倩女幽魂3-道道道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+
+
+
 
 
 
