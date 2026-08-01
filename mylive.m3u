@@ -7,12 +7,6 @@ https://cdn.qd.je/163189/fhzw
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 group-title="FAV",NHK G
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
-#EXTINF:-1 group-title="FAV",NOW新闻台
-https://cdn.qd.je/163189/now
-#EXTINF:-1 group-title="FAV",NOW爆谷台
-http://173.208.234.146/live/nowbg.m3u8
-#EXTINF:-1 group-title="FAV",NOW星影台
-http://173.208.234.146/live/nowxy.m3u8
 #EXTINF:-1 group-title="FAV",中天新闻
 http://173.208.234.146/live/ctinews.m3u8
 #EXTINF:-1 group-title="FAV",纬来体育台
@@ -25,15 +19,92 @@ https://live.catvod.com/?id=L2xyL2RMUU9ubGQyak56Z3pDcXVWQ3M0ejVuT1ZOSkJqTnQ4UVpl
 https://cdn.qd.je/163189/wxty
 #EXTINF:-1 group-title="FAV",五星体育
 https://live.catvod.com/?id=fx%3AaHR0cDovL2lwdHYuY2F0dm9kLmNvbS8xMD90PTE3ODU1MDk3MTMmdG9rZW49MzVkZjc2MDE5YjA3MGRlYzg3MWJhZjc3NmJkODgyODA0MzBhOTVhYTU3Y2Y5MmJkOTdjNDk3ZTgzZjgzMDJiNA&tk=e5e3a2968f883137dfb35c8c583cca76
-#EXTINF:-1 group-title="FAV",哈哈炫动
-https://live.catvod.com/?id=fx%3AaHR0cDovL2lwdHYuY2F0dm9kLmNvbS85P3Q9MTc4NTUwOTcxMyZ0b2tlbj0wYWU1NDRlOGJmMmUyNTZiYmM3ZTRhZTRkZDExZWQ3NWFkODI1ZWI0MGQxNTBhYzNmODcwZDJhZDc5OTU2N2Mw&tk=e5e3a2968f883137dfb35c8c583cca76
 
 
 
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalduTDY1UWFqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWFlNjc2OTBkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalduTDY1UWFwQzJhcDdmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MzRkYjQ0OWYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 group-title="CCTV",CCTV6电影
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11戏曲
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV14少儿
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16奥利匹克
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村
+http://74.91.26.218:82/live/cctv17hd.m3u8
 
+
+
+#EXTINF:-1 group-title="CCTV",CCTV1综合
+http://198.204.228.26/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV2财经
+http://198.204.228.26/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV3综艺
+http://198.204.228.26/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV4中文国际
+http://198.204.228.26/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5体育
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV5+体育赛事
+http://198.204.228.26/live/cctv5p.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV6电影
+http://198.204.228.26/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV7国防军事
+http://198.204.228.26/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV8电视剧
+http://198.204.228.26/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV9纪录
+http://198.204.228.26/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV10科教
+http://198.204.228.26/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV11戏曲
+http://198.204.228.26/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV12社会与法
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV13新闻
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV14少儿
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV15音乐
+http://198.204.228.26/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV16奥利匹克
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="CCTV",CCTV17农业农村
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="CCTV",CETV1农业农村
+http://198.204.228.26/live/cetv1hd.m3u8
 
 
 #EXTINF:-1 group-title="CCTV",CGTN英语
@@ -55,6 +126,7 @@ https://0472.org/hls/cgtne.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 group-title="TV",五星体育
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 #EXTINF:-1 group-title="TV",北京卫视
@@ -65,20 +137,28 @@ http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="TV",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="TV",深圳卫视
+http://198.204.228.26/live/szwshd.m3u8
 #EXTINF:-1 group-title="TV",浙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="TV",江苏卫视
 http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="TV",湖北卫视
 http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="TV",湖北卫视
+http://198.204.228.26/live/hbwshd.m3u8
 #EXTINF:-1 group-title="TV",湖南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="TV",重庆卫视
 http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="TV",四川卫视
 http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="TV",四川卫视
+http://198.204.228.26/live/scwshd.m3u8
 #EXTINF:-1 group-title="TV",天津卫视
 http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="TV",天津卫视
+http://198.204.228.26/live/tjwshd.m3u8
 #EXTINF:-1 group-title="TV",山东卫视
 http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="TV",山西卫视
@@ -93,12 +173,43 @@ http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="TV",东南卫视
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="TV",东南卫视
+http://198.204.228.26/live/dnwshd.m3u8
 #EXTINF:-1 group-title="TV",辽宁卫视
 http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="TV",辽宁卫视
+http://198.204.228.26/live/lnwshd.m3u8
 #EXTINF:-1 group-title="TV",吉林卫视
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="TV",广西卫视
+http://198.204.228.26/live/gxwshd.m3u8
+#EXTINF:-1 group-title="TV",广西卫视
+http://198.204.228.26/live/gxxw.m3u8
+#EXTINF:-1 group-title="TV",广西国际
+http://198.204.228.26/live/gxgj.m3u8
+#EXTINF:-1 group-title="TV",青海卫视
+http://198.204.228.26/live/qhws.m3u8
+#EXTINF:-1 group-title="TV",陕西卫视
+http://198.204.228.26/live/snwshd.m3u8
+#EXTINF:-1 group-title="TV",三沙卫视
+http://198.204.228.26/live/ssws.m3u8
+#EXTINF:-1 group-title="TV",云南卫视
+http://198.204.228.26/live/ynwshd.m3u8
+#EXTINF:-1 group-title="TV",新疆卫视
+http://198.204.228.26/live/xjws.m3u8
+#EXTINF:-1 group-title="TV",西藏卫视
+http://198.204.228.26/live/xzws.m3u8
 #EXTINF:-1 group-title="TV",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="TV",黑龙江卫视
+http://198.204.228.26/live/hljwshd.m3u8
+#EXTINF:-1 group-title="TV",内蒙古卫视
+http://198.204.228.26/live/nmgws.m3u8
+#EXTINF:-1 group-title="TV",CHC家庭影院
+http://198.204.228.26/live/chcjt.m3u8
+#EXTINF:-1 group-title="TV",CHC动作电影
+http://198.204.228.26/live/chcdz.m3u8
+
 
 
 
@@ -292,6 +403,7 @@ http://173.208.234.146/live/ctinews.m3u8
 
 
 
+
 #EXTM3U
 #EXTINF:-1 group-title="GW",SKY Sport 4 NZ
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120361
@@ -415,6 +527,140 @@ https://sra72yz.s.gy/STARZ_ENCORE_WEST_US
 https://sra72yz.s.gy/THE_MOVIE_CHANNEL_WEST
 #EXTINF:-1 group-title="GW",THE MOVIE CHANNEL XTRA
 https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="2651" tvg-name="Arena" tvg-logo="https://live.fanmingming.com/tv/Arena.png" group-title="体育频道",Arena
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzN3pVSXlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWVmNDhhYzYxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2710" tvg-name="Arena 2" tvg-logo="https://live.fanmingming.com/tv/Arena2.png" group-title="体育频道",Arena2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzN3pVSXlkcmZPVkNzSVZDZWw2aUlNZE4waHxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD00NjZlNmE4NSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2691" tvg-name="Arena Bola 1" tvg-logo="https://live.fanmingming.com/tv/ArenaBola1.png" group-title="体育频道",ArenaBola1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJKdVZDc3lwUnE0UVBUdXBDMnl4VTJncE5fNFZQbmFBbXxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD1mNmQyMmM3NCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2781" tvg-name="Arena Bola 2" tvg-logo="https://live.fanmingming.com/tv/ArenaBola2.png" group-title="体育频道",ArenaBola2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJKdVZDc3lwUnE0UVAxdXBDMnl4VTJncE5fNFZQbmFBbXxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD0yYjQ2YzQ5ZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2832" tvg-name="Astro Badminton" tvg-logo="https://live.fanmingming.com/tv/AstroBadminton.png" group-title="体育频道",AstroBadminton
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpXSnl6Q2FnVmNTdVZMVHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9NjE4MTEwZTAmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2935" tvg-name="Astro Badminton 1" tvg-logo="https://live.fanmingming.com/tv/AstroBadminton1.png" group-title="体育频道",AstroBadminton1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yamF0eXZhZnJRVVNNdlVJQlZXaDJqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTgzYjRjNTdiJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2833" tvg-name="Astro Badminton 2" tvg-logo="https://live.fanmingming.com/tv/AstroBadminton2.png" group-title="体育频道",AstroBadminton2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpXSnl6Q2FnVmNTdVZMMXVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MGI5MjZmMTQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2825" tvg-name="Astro Beinsports 1" tvg-logo="https://live.fanmingming.com/tv/AstroBeinsports1.png" group-title="体育频道",AstroBeinsports1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzbDY1SnVRUnFnVkxUdXBDMnl4VTJncE5fNFZQbmFBbXxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD1kYjhkZGVjMiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2826" tvg-name="Astro Beinsports 2" tvg-logo="https://live.fanmingming.com/tv/AstroBeinsports2.png" group-title="体育频道",AstroBeinsports2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzbDY1SnVRUnFnVkwxdXBDMnl4VTJncE5fNFZQbmFBbXxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD03MmFjZjMyZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2827" tvg-name="Astro Beinsports 3" tvg-logo="https://live.fanmingming.com/tv/AstroBeinsports3.png" group-title="体育频道",AstroBeinsports3
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzbDY1SnVRUnFnVkxkdXBDMnl4VTJncE5fNFZQbmFBbXxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD01MzhmZGQ2YiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2653" tvg-name="Astro Cricket" tvg-logo="https://live.fanmingming.com/tv/AstroCricket.png" group-title="体育频道",AstroCricket
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzTHBSZUx2V3FCak50OFFaZTh2Wm5CalJCbDZQRnxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD1kNzczN2Q3NiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2823" tvg-name="Astro Football" tvg-logo="https://live.fanmingming.com/tv/AstroFootball.png" group-title="体育频道",AstroFootball
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpXc2xwTm1Cak50OFFaZTh2Wm5CalJCbDZQRnxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD00NzcyNTFhMyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1791" tvg-name="Astro Football (Back Up 1)" tvg-logo="https://live.fanmingming.com/tv/AstroFootball%28BackUp1%29.png" group-title="体育频道",AstroFootball(BackUp1)
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzbHBObUJqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTQ3ZWNjMGRjJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2611" tvg-name="Astro Golf" tvg-logo="https://live.fanmingming.com/tv/AstroGolf.png" group-title="体育频道",AstroGolf
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzY1ZXMlJqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTU5NGVhMGMyJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2822" tvg-name="Astro Grandstand" tvg-logo="https://live.fanmingming.com/tv/AstroGrandstand.png" group-title="体育频道",AstroGrandstand
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpXc2xwTm1sak50OFFaZTh2Wm5CalJCbDZQRnxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD1iZTA3YzhhZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1790" tvg-name="Astro Grandstand (Back Up 1)" tvg-logo="https://live.fanmingming.com/tv/AstroGrandstand%28BackUp1%29.png" group-title="体育频道",AstroGrandstand(BackUp1)
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzbHBObWxqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTRjNTM0M2ZjJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1788" tvg-name="Astro PL 1" tvg-logo="https://live.fanmingming.com/tv/AstroPL1.png" group-title="体育频道",AstroPL1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzbHBObTJqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTAzMmRmNGE5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2820" tvg-name="Astro PL 1 (Back Up 1)" tvg-logo="https://live.fanmingming.com/tv/AstroPL1%28BackUp1%29.png" group-title="体育频道",AstroPL1(BackUp1)
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpXc2xwTm0yak50OFFaZTh2Wm5CalJCbDZQRnxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD01MTBkMjY0ZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2839" tvg-name="Astro PL 1 (Back Up 2)" tvg-logo="https://live.fanmingming.com/tv/AstroPL1%28BackUp2%29.png" group-title="体育频道",AstroPL1(BackUp2)
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpXc2xwTm0yeGlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MDBjOTg4YjImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2821" tvg-name="Astro PL 2" tvg-logo="https://live.fanmingming.com/tv/AstroPL2.png" group-title="体育频道",AstroPL2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpXc2xwTm03ak50OFFaZTh2Wm5CalJCbDZQRnxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD0xMTZiMWRmOCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2610" tvg-name="Astro Sports Plus" tvg-logo="https://live.fanmingming.com/tv/AstroSportsPlus.png" group-title="体育频道",AstroSportsPlus
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpObk9WTkpCcE50ODZaZHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9NDVmMGExYTgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2834" tvg-name="Astro W-Sports" tvg-logo="https://live.fanmingming.com/tv/AstroW-Sports.png" group-title="体育频道",AstroW-Sports
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpXc2xwTm1hak50OFFaZTh2Wm5CalJCbDZQRnxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD1mNzNjYWI1MSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="890" tvg-name="CCTV-5+ 體育" tvg-logo="https://live.fanmingming.com/tv/CCTV-5%2B%E9%AB%94%E8%82%B2.png" group-title="体育频道",CCTV-5+體育
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalduTDY1UWFwQzJhcDdmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MzRkYjQ0OWYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1631" tvg-name="CCTV-5 體育" tvg-logo="https://live.fanmingming.com/tv/CCTV-5%E9%AB%94%E8%82%B2.png" group-title="体育频道",CCTV-5體育
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalduTDY1UWFqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWFlNjc2OTBkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2869" tvg-name="DAZN 1" tvg-logo="https://live.fanmingming.com/tv/DAZN1.png" group-title="体育频道",DAZN1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yaldTeXhSaDJaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MmIyMzk2NTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2870" tvg-name="DAZN 2" tvg-logo="https://live.fanmingming.com/tv/DAZN2.png" group-title="体育频道",DAZN2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yaldTeXhSaDdaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9ZGM4YzFlZTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2871" tvg-name="Elta体育1台" tvg-logo="https://live.fanmingming.com/tv/Elta%E4%BD%93%E8%82%B21%E5%8F%B0.png" group-title="体育频道",Elta体育1台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yaldxODZDc2xwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTRmYTZkMWRlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2922" tvg-name="Elta体育4台" tvg-logo="https://live.fanmingming.com/tv/Elta%E4%BD%93%E8%82%B24%E5%8F%B0.png" group-title="体育频道",Elta体育4台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yaldxODZDc2xwQ2Y3NjVkQlpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD00MjI0YzEzNiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1541" tvg-name="Elta體育2台" tvg-logo="https://live.fanmingming.com/tv/Elta%E9%AB%94%E8%82%B22%E5%8F%B0.png" group-title="体育频道",Elta體育2台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yaldxODZDc2xwQ2Y3NkVKYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTJjMWJhNDNmJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2578" tvg-name="Elta體育3台" tvg-logo="https://live.fanmingming.com/tv/Elta%E9%AB%94%E8%82%B23%E5%8F%B0.png" group-title="体育频道",Elta體育3台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yaldxODZDc2xwQ2Y3NkVuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWM4NWU4Zjg1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2890" tvg-name="Eurosport" tvg-logo="https://live.fanmingming.com/tv/Eurosport.png" group-title="体育频道",Eurosport
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJxYXBSZmxwQ2Y3NmlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9NDVkNDJhMzkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1694" tvg-name="NBA TV" tvg-logo="https://live.fanmingming.com/tv/NBATV.png" group-title="体育频道",NBATV
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJJclEzZk9WQ3NJVkNlbDZpSU1kTjBofGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWQ1ZGE4NjZmJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2920" tvg-name="Now Sports 616" tvg-logo="https://live.fanmingming.com/tv/NowSports616.png" group-title="体育频道",NowSports616
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzNFZONmxwQ2Y3NjVkMmpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9NTU1ODM2Y2EmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2921" tvg-name="Now Sports 617" tvg-logo="https://live.fanmingming.com/tv/NowSports617.png" group-title="体育频道",NowSports617
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzNFZONmxwQ2Y3NjVkN2pOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9ODYxNjM5MTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1745" tvg-name="RTM Sports HD" tvg-logo="https://live.fanmingming.com/tv/RTMSports.png" group-title="体育频道",RTMSports
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yamFKQlZabk9WTkpCak50OFFaZTh2Wm5CalJCbDZQRnxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD1lYWFlNzdjMCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2695" tvg-name="Rugby Pass TV" tvg-logo="https://live.fanmingming.com/tv/RugbyPassTV.png" group-title="体育频道",RugbyPassTV
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yamFKYXpXSklwQ3NscE5TV2pOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9M2I3NTNkYzEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2709" tvg-name="SPOTV 1 HD" tvg-logo="https://live.fanmingming.com/tv/SPOTV1.png" group-title="体育频道",SPOTV1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpObk9WTlNXak50OFFaZTh2Wm5CalJCbDZQRnxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD0yYmI2M2Q1NyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2628" tvg-name="SPO TV 2" tvg-logo="https://live.fanmingming.com/tv/SPOTV2.png" group-title="体育频道",SPOTV2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yalc2dVpObk9WTlNXZHJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9NDhmYjJmOTkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2934" tvg-name="Skysports Action" tvg-logo="https://live.fanmingming.com/tv/SkysportsAction.png" group-title="体育频道",SkysportsAction
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljUVVuQnZVZjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWQ2NTc2OTk2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2933" tvg-name="Skysports Arena" tvg-logo="https://live.fanmingming.com/tv/SkysportsArena.png" group-title="体育频道",SkysportsArena
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljUVpKZVZSVHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9M2RjMDA4NWYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2861" tvg-name="Skysports Cricket" tvg-logo="https://live.fanmingming.com/tv/SkysportsCricket.png" group-title="体育频道",SkysportsCricket
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljUU5KZ1FXTWU2aWZPVkNzSVZDZWw2aUlNZE4waHxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD0xMjdjMDIwNiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2862" tvg-name="Skysports EPL" tvg-logo="https://live.fanmingming.com/tv/SkysportsEPL.png" group-title="体育频道",SkysportsEPL
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljelp0OGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9M2Y3ZmJkNTQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2863" tvg-name="Skysports F1" tvg-logo="https://live.fanmingming.com/tv/SkysportsF1.png" group-title="体育频道",SkysportsF1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljekxUdXBDMnl4VTJncE5fNFZQbmFBbXxjZD04Y2FkMjUwYiZjbj0xZTBkNTg0YyZjcD1mOGYxMWVmOSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2931" tvg-name="Skysports Football" tvg-logo="https://live.fanmingming.com/tv/SkysportsFootball.png" group-title="体育频道",SkysportsFootball
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljelJmdTZDSnlWQ091cEMyeXhVMmdwTl80VlBuYUFtfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTYzNDJiYjk5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2864" tvg-name="Skysports Golf" tvg-logo="https://live.fanmingming.com/tv/SkysportsGolf.png" group-title="体育频道",SkysportsGolf
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljeldmOHpyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWM5NmE5YTNhJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2865" tvg-name="Skysports Main Event" tvg-logo="https://live.fanmingming.com/tv/SkysportsMainEvent.png" group-title="体育频道",SkysportsMainEvent
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljVlVzZ1ZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWQ0MDZhNDc0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2866" tvg-name="Skysports Mix" tvg-logo="https://live.fanmingming.com/tv/SkysportsMix.png" group-title="体育频道",SkysportsMix
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljVlVlaGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MDkxYjk3YzQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2932" tvg-name="Skysports News" tvg-logo="https://live.fanmingming.com/tv/SkysportsNews.png" group-title="体育频道",SkysportsNews
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljVlJxTnA3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWM3YzRiMjdhJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2867" tvg-name="Skysports Racing" tvg-logo="https://live.fanmingming.com/tv/SkysportsRacing.png" group-title="体育频道",SkysportsRacing
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TZ1FVSWtWV0ljcFJzTHZVSWNqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTdiNjUyNmU1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1789" tvg-name="Supersports 2" tvg-logo="https://live.fanmingming.com/tv/Supersports2.png" group-title="体育频道",Supersports2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzbHBObTdqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPWY4NjEzOTkwJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2765" tvg-name="TNT Sports 2" tvg-logo="https://live.fanmingming.com/tv/TNTSports2.png" group-title="体育频道",TNTSports2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TNDY1bk9WTkpCZHJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9NTIxNmU3NWQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2766" tvg-name="TNT Sports 3" tvg-logo="https://live.fanmingming.com/tv/TNTSports3.png" group-title="体育频道",TNTSports3
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TNDY1bk9WTkpCZDdmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MTFlYWI2YjMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2767" tvg-name="TNT Sports 4" tvg-logo="https://live.fanmingming.com/tv/TNTSports4.png" group-title="体育频道",TNTSports4
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TNDY1bk9WTkpCbmlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9ZGEzNWVjMzEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1622" tvg-name="TVRi National" tvg-logo="https://live.fanmingming.com/tv/TVRiNational.png" group-title="体育频道",TVRiNational
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yamFTVTA5OXVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MjFhMDM0NjcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2764" tvg-name="Tnt Sports 1" tvg-logo="https://live.fanmingming.com/tv/TntSports1.png" group-title="体育频道",TntSports1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yak5TNDY1bk9WTkpCZDNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9MWNiOWU3NGEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2923" tvg-name="Unifi World Cup" tvg-logo="https://live.fanmingming.com/tv/UnifiWorldCup.png" group-title="体育频道",UnifiWorldCup
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzYVZSZVJ2WjZMZDNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9OGZmNDc4MTMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2915" tvg-name="Unifi World Cup 2 HD" tvg-logo="https://live.fanmingming.com/tv/UnifiWorldCup2.png" group-title="体育频道",UnifiWorldCup2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzYVZSZVJ2WjZMZHJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9OWIyYTcxZjgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2916" tvg-name="Unifi World Cup 3 HD" tvg-logo="https://live.fanmingming.com/tv/UnifiWorldCup3.png" group-title="体育频道",UnifiWorldCup3
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yakJzYVZSZVJ2WjZMZDdmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9NWIyMmYxYWYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="1922" tvg-name="WWE" tvg-logo="https://live.fanmingming.com/tv/WWE.png" group-title="体育频道",WWE
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yamE2TnozZk9WQ3NJVkNlbDZpSU1kTjBofGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTJlMGI0NmU4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2086" tvg-name="博斯网球 HD" tvg-logo="https://live.fanmingming.com/tv/%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83.png" group-title="体育频道",博斯网球
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yaldKdXBXZUJ6VUk0dlpuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPThjYWQyNTBiJmNuPTFlMGQ1ODRjJmNwPTI3ZTZhN2MzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 tvg-id="2085" tvg-name="博斯高球2 HD" tvg-logo="https://live.fanmingming.com/tv/%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832.png" group-title="体育频道",博斯高球2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW0yaldKdXBXZWNWVzJSZGVmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9OGNhZDI1MGImY249MWUwZDU4NGMmY3A9OGQ0MTZjYjkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+
 
 
 
