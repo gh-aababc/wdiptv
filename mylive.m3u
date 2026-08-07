@@ -53,6 +53,16 @@ http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying
 http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
 #EXTINF:-1 group-title="FAV",JSport 4
 http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
+#EXTINF:-1 group-title="FAV",SPORTV-1-HD
+http://177.52.24.163/SPORTV-1-HD/index.m3u8
+#EXTINF:-1 group-title="FAV",SPORTV-2-HD
+http://177.52.24.163/SPORTV-2-HD/index.m3u8
+#EXTINF:-1 group-title="FAV",NEW KPOP
+https://jmp2.uk/stvp-USAJ3000013FJ
+#EXTINF:-1 group-title="FAV",polsat sport
+http://193.24.244.60:1001/udp/239.254.2.8:6060
+#EXTINF:-1 group-title="FAV",polsat sport 3
+http://193.24.244.60:1001/udp/239.254.2.5:6060
 
 
 
