@@ -3,6 +3,8 @@
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 group-title="FAV",凤凰资讯
 http://rihou.cc:555/tv/[Pd]凤凰资讯
+#EXTINF:-1 group-title="FAV",凤凰资讯
+https://cdn6.cc.cd/163189/fhzx
 #EXTINF:-1 group-title="FAV",凤凰中文
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 group-title="FAV",凤凰香港
@@ -11,10 +13,18 @@ https://cdn.qd.je/163189/fhhk
 http://173.208.234.146/live/ctinews.m3u8
 #EXTINF:-1 group-title="FAV",中天新闻
 http://rihou.cc:555/tv/[Pd]中天新闻
+#EXTINF:-1 group-title="FAV",中天新闻
+https://stream1.freetv.fun/09a7bd02a1ebdc47fbdd8027d13909561a54137ba6dca325520aa0b4b042a821.m3u8
 #EXTINF:-1 group-title="FAV",纬来体育台
 https://cdn.qd.je/163189/wlty
 #EXTINF:-1 group-title="FAV",纬来体育台
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="FAV",纬来体育台
+https://iptv.1989.click/tw/a9kx2c?token=df00c8c8cc557717b8ca7b7adb164ddf7414c2a6c86ed077
+#EXTINF:-1 group-title="FAV",DAZN-1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="FAV",DAZN-2
+rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 group-title="FAV",五星体育
 https://cdn.qd.je/163189/wxty
 #EXTINF:-1 group-title="FAV",五星体育
@@ -65,7 +75,14 @@ http://193.24.244.60:1001/udp/239.254.2.8:6060
 http://193.24.244.60:1001/udp/239.254.2.5:6060
 
 
-
+#EXTINF:-1 group-title="FAV",Elta体育1台
+https://live.catvod.com/?id=L2xyL2RMUU9BRVRCaldxODZDc2xwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTQyNzc2NjM3JmNuPTFlMGQ1ODRjJmNwPTRmYTZkMWRlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 group-title="FAV",Elta體育2台
+https://live.catvod.com/?id=L2xyL2RMUU9BRVRCaldxODZDc2xwQ2Y3NkVKYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTQyNzc2NjM3JmNuPTFlMGQ1ODRjJmNwPTJjMWJhNDNmJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 group-title="FAV",Elta體育3台
+https://live.catvod.com/?id=L2xyL2RMUU9BRVRCaldxODZDc2xwQ2Y3NkVuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTQyNzc2NjM3JmNuPTFlMGQ1ODRjJmNwPWM4NWU4Zjg1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 group-title="FAV",Elta体育4台
+https://live.catvod.com/?id=L2xyL2RMUU9BRVRCaldxODZDc2xwQ2Y3NjVkQlpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD00Mjc3NjYzNyZjbj0xZTBkNTg0YyZjcD00MjI0YzEzNiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=e5e3a2968f883137dfb35c8c583cca76
 
 
 
@@ -1854,3 +1871,21 @@ http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
 http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
 #EXTINF:-1 group-title="MOV",倩女幽魂3-道道道
 http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+
+2026功夫女足,https://v.lfthirtytwo.com/20260723/8846_f4084a75/index.m3u8
+2026功夫 女足,https://v.fengbao11.com/video/gongfunvzu/618845436188/index.m3u8
+2026 功夫女足,https://vip.dytt-network.com/20260723/36526_9c21455c/index.m3u8
+2026八仙,http://111.229.219.148:808/Cache/lzgg/7a367b98744276dba9ea2844bf13ab1e.m3u8
+2019哪吒之魔童降世,http://111.229.219.148:808/Cache/lzgg/67f35a41a439e00540d0d88f62d3d56a.m3u8
+2025哪吒之魔童闹海,https://play.modujx11.com/20250802/Cha4M4YU/index.m3u8
+2016美人鱼,https://vodcnd12.myqqdd.com/20250622/1wNEi7n7/index.m3u8
+2001少林足球,https://vip.lzcdn2.com/20220521/7147_3b73302c/index.m3u8
+2004功夫,https://cdn1.ryplay1.com/20240910/7703_9dc7d493/index.m3u8
+1997家有喜事,https://cdn7.ryplay7.com/20250208/10599_69233b69/index.m3u8
+1996食神,https://play.modujx15.com/20240826/pUDgrWmX/index.m3u8
+1994破坏之王,https://cdn7.ryplay7.com/20240915/380_11f89ab4/index.m3u8
+1994九品芝麻官,https://vip.dytt-live.com/20250330/2684_7c4bf50b/index.m3u8
+1993逃学威龙3之龙过鸡年,https://play.modujx15.com/20240825/VgswEazn/index.m3u8
+1992鹿鼎记2神龙教,https://play.modujx16.com/20240830/hhzZN6Th/index.m3u8
+1991逃学威龙,https://vip.dytt-film.com/20250311/12297_35fcfa9e/index.m3u8
+1990赌侠,https://play.modujx11.com/20241224/mBSx76B4/index.m3u8
