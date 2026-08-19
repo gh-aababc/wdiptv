@@ -465,29 +465,25 @@ https://xemzi.short.gy/2000010
 
 
 
-#EXTINF:-1 group-title="GW1",SKY Sport 4 NZ
+#EXTINF:-1 group-title="GW89",SKY Sport 4 NZ
 http://89.187.179.148:826/1368/gXwiagaXda/120361
-#EXTINF:-1 group-title="GW1",NBA TV
+#EXTINF:-1 group-title="GW89",NBA TV
 http://89.187.179.148:826/1368/gXwiagaXda/29485
-#EXTINF:-1 group-title="GW1",ESPN
+#EXTINF:-1 group-title="GW89",ESPN
 http://89.187.179.148:826/1368/gXwiagaXda/119665
-#EXTINF:-1 group-title="GW1",ESPN2
+#EXTINF:-1 group-title="GW89",ESPN2
 http://89.187.179.148:826/1368/gXwiagaXda/119666
-#EXTINF:-1 group-title="GW1",ESPNEWS
+#EXTINF:-1 group-title="GW89",ESPNEWS
 http://89.187.179.148:826/1368/gXwiagaXda/1275
-#EXTINF:-1 group-title="GW1",FS1
+#EXTINF:-1 group-title="GW89",FS1
 http://89.187.179.148:826/1368/gXwiagaXda/120160
-#EXTINF:-1 group-title="GW1",FS2
+#EXTINF:-1 group-title="GW89",FS2
 http://89.187.179.148:826/1368/gXwiagaXda/120161
-#EXTINF:-1 group-title="GW1",WNJU Telemundo Nueva York
+#EXTINF:-1 group-title="GW89",WNJU Telemundo Nueva York
 http://89.187.179.148:826/1368/gXwiagaXda/109764
-#EXTINF:-1 group-title="GW1",KVEA Telemundo Los Ángeles
+#EXTINF:-1 group-title="GW89",KVEA Telemundo Los Ángeles
 http://89.187.179.148:826/1368/gXwiagaXda/110009
 
-
-
-#EXTINF:-1 group-title="GW1",MUTV UK
-http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/717526
 
 
 
@@ -495,14 +491,31 @@ http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/717526
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
 #EXTINF:-1 group-title="GW1",SPORTV-2-HD
 http://177.52.24.163/SPORTV-2-HD/index.m3u8
+#EXTINF:-1 group-title="GW1",MUTV UK
+http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/717526
+#EXTINF:-1 group-title="GW1",Willow Cricket
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 
 
-#EXTINF:-1 group-title="GW3",AMC
+#EXTINF:-1 group-title="GW2",AMC
 http://23.239.31.26:8989/amc/index.m3u8
-
-
-
+#EXTINF:-1 group-title="GW2",A&E TV
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 group-title="GW2",CBS News 24/7
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="GW2",CNBC
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="GW2",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 group-title="GW2",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 group-title="GW2",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 group-title="GW2",NBC News NOW
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="GW2",Newsmax TV
+http://rtmp.antik.sk/newsmax/tracks-v1a1/mono.m3u8
 
 
 
