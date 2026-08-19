@@ -446,9 +446,9 @@ http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
 
 
 #EXTM3U
-#EXTINF:-1 group-title="FAV",SPORTV-1-HD
+#EXTINF:-1 group-title="GW",SPORTV-1-HD
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
-#EXTINF:-1 group-title="FAV",SPORTV-2-HD
+#EXTINF:-1 group-title="GW",SPORTV-2-HD
 http://177.52.24.163/SPORTV-2-HD/index.m3u8
 #EXTINF:-1 group-title="GW",SKY Sport 4 NZ
 http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120361
@@ -572,9 +572,9 @@ https://sra72yz.s.gy/STARZ_ENCORE_WEST_US
 https://sra72yz.s.gy/THE_MOVIE_CHANNEL_WEST
 #EXTINF:-1 group-title="GW",TH E MOVIE CHANNEL XTRA
 https://sra72yz.s.gy/THE_MOVIE_CHANNEL_XTRA_WEST
-#EXTINF:-1 group-title="FAV",ᴺᴱᵂˢ | CNBC HD
+#EXTINF:-1 group-title="GW",ᴺᴱᵂˢ | CNBC HD
 http://streamingtv.vip/live/Encoderwilsom/73kdjdmemmrmr/399502.ts
-#EXTINF:-1 group-title="FAV",USA: CNBC HD USA
+#EXTINF:-1 group-title="GW",USA: CNBC HD USA
 http://streamingtv.vip/live/Encoderwilsom/73kdjdmemmrmr/399126.ts
 
 
