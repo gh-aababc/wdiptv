@@ -3,14 +3,22 @@
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 group-title="FAV",凤凰资讯
 https://live.catvod.com/?id=L2xyL2RMUU9BRVRJak50R1ZXcTR2WnlnVlJ6dVpXeTlqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5N2FlZmZjJmNuPTFlMGQ1ODRjJmNwPWE2MmIyNWM2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 group-title="FAV",凤凰资讯
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=156407&extension=ts&play_token=bhgy8SJCtQ
 #EXTINF:-1 group-title="FAV",凤凰中文
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 group-title="FAV",凤凰中文
 https://live.catvod.com/?id=L2xyL2RMUU9BRVRJak50R1ZXcTR2WnlCNmVmR3ppZk9WQ3NJVkNlbDZpSU1kTjBofGNkPTE5N2FlZmZjJmNuPTFlMGQ1ODRjJmNwPTkwY2NhY2IzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 group-title="FAV",凤凰中文
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=114695&extension=ts&play_token=jG08muObQQ
 #EXTINF:-1 group-title="FAV",凤凰香港
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 group-title="FAV",凤凰香港
 https://live.catvod.com/?id=L2xyL2RMUU9BRVRJald5a3BDeXV6VUlneHNmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9MTk3YWVmZmMmY249MWUwZDU4NGMmY3A9MmE5NGJmZDMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=e5e3a2968f883137dfb35c8c583cca76
+#EXTINF:-1 group-title="FAV",凤凰美洲台
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=153402&extension=ts&play_token=i1HebFKDnC
+#EXTINF:-1 group-title="FAV",凤凰美洲台
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=156408&extension=ts&play_token=3ZiRTRZsrb
 #EXTINF:-1 group-title="FAV",中天新闻
 http://173.208.234.146/live/ctinews.m3u8
 #EXTINF:-1 group-title="FAV",中天新闻
@@ -473,34 +481,18 @@ https://xemzi.short.gy/2000010
 
 
 
-#EXTINF:-1 group-title="GW89",SKY Sport 4 NZ
-http://89.187.179.148:826/1368/gXwiagaXda/120361
-#EXTINF:-1 group-title="GW89",NBA TV
-http://89.187.179.148:826/1368/gXwiagaXda/29485
-#EXTINF:-1 group-title="GW89",ESPN
-http://89.187.179.148:826/1368/gXwiagaXda/119665
-#EXTINF:-1 group-title="GW89",ESPN2
-http://89.187.179.148:826/1368/gXwiagaXda/119666
-#EXTINF:-1 group-title="GW89",ESPNEWS
-http://89.187.179.148:826/1368/gXwiagaXda/1275
-#EXTINF:-1 group-title="GW89",FS1
-http://89.187.179.148:826/1368/gXwiagaXda/120160
-#EXTINF:-1 group-title="GW89",FS2
-http://89.187.179.148:826/1368/gXwiagaXda/120161
-#EXTINF:-1 group-title="GW89",WNJU Telemundo Nueva York
-http://89.187.179.148:826/1368/gXwiagaXda/109764
-#EXTINF:-1 group-title="GW89",KVEA Telemundo Los Ángeles
-http://89.187.179.148:826/1368/gXwiagaXda/110009
-
-
-
-
 #EXTINF:-1 group-title="GW1",SPORTV-1-HD
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
 #EXTINF:-1 group-title="GW1",SPORTV-2-HD
 http://177.52.24.163/SPORTV-2-HD/index.m3u8
-#EXTINF:-1 group-title="GW1",MUTV UK
-http://45.139.122.199:2095/Pm2e5NEugM/ngORTY5fvp/717526
+#EXTINF:-1 group-title="GW1",UK| MUTV FHD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=45324&extension=ts&play_token=6Lj5aDMtOS
+#EXTINF:-1 group-title="GW1",UK| MUTV HEVC FHD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=1458773&extension=ts&play_token=XsJ1hYMdmZ
+#EXTINF:-1 group-title="GW1",UK| MUTV HEVC HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=1458772&extension=ts&play_token=iqsLM2oC3z
+#EXTINF:-1 group-title="GW1",NZ| MUTV
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=814497&extension=ts&play_token=5gGxsipal4
 #EXTINF:-1 group-title="GW1",Willow Cricket
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
@@ -525,6 +517,26 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="GW2",Newsmax TV
 http://rtmp.antik.sk/newsmax/tracks-v1a1/mono.m3u8
 
+
+
+#EXTINF:-1 group-title="GW3",SKY Sport 4 NZ
+http://89.187.179.148:826/1368/gXwiagaXda/120361
+#EXTINF:-1 group-title="GW3",NBA TV
+http://89.187.179.148:826/1368/gXwiagaXda/29485
+#EXTINF:-1 group-title="GW3",ESPN
+http://89.187.179.148:826/1368/gXwiagaXda/119665
+#EXTINF:-1 group-title="GW3",ESPN2
+http://89.187.179.148:826/1368/gXwiagaXda/119666
+#EXTINF:-1 group-title="GW3",ESPNEWS
+http://89.187.179.148:826/1368/gXwiagaXda/1275
+#EXTINF:-1 group-title="GW3",FS1
+http://89.187.179.148:826/1368/gXwiagaXda/120160
+#EXTINF:-1 group-title="GW3",FS2
+http://89.187.179.148:826/1368/gXwiagaXda/120161
+#EXTINF:-1 group-title="GW3",WNJU Telemundo Nueva York
+http://89.187.179.148:826/1368/gXwiagaXda/109764
+#EXTINF:-1 group-title="GW3",KVEA Telemundo Los Ángeles
+http://89.187.179.148:826/1368/gXwiagaXda/110009
 
 
 
