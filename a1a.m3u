@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="554949" group-title="Group_407",HK| NOW SPORTS 1 HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554949&extension=ts&play_token=OWeEc2PlPC
+#EXTINF:-1 tvg-id="554948" group-title="Group_407",HK| NOW SPORTS 2 HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554948&extension=ts&play_token=NrgS9sEz4m
+#EXTINF:-1 tvg-id="554947" group-title="Group_407",HK| NOW SPORTS 3 HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554947&extension=ts&play_token=RSTv3iN2Kx
+#EXTINF:-1 tvg-id="554946" group-title="Group_407",HK| NOW SPORTS 4 HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554946&extension=ts&play_token=DAYiNMyCHI
+#EXTINF:-1 tvg-id="554945" group-title="Group_407",HK| NOW SPORTS 5 HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554945&extension=ts&play_token=89vn7NUCFd
+#EXTINF:-1 tvg-id="554944" group-title="Group_407",HK| NOW SPORTS 6 HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554944&extension=ts&play_token=6S4wuiqMl7
+#EXTINF:-1 tvg-id="554943" group-title="Group_407",HK| NOW SPORTS 7 HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554943&extension=ts&play_token=0AKps5L8fd
