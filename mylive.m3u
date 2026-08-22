@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="FAV",DZ1
-https://89.187.179.148:826/1368/gXwiagaXda/118609
-#EXTINF:-1 group-title="FAV",DZ
-https://89.187.179.148:826/1368/gXwiagaXda/119958
 #EXTINF:-1 group-title="FAV",凤凰资讯
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 group-title="FAV",凤凰资讯
@@ -485,97 +481,43 @@ https://xemzi.short.gy/2000010
 
 
 
-
-
-
-#EXTINF:-1 group-title="GW1",SPORTV-1-HD
+#EXTINF:-1 group-title="GW",SPORTV-1-HD
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
-#EXTINF:-1 group-title="GW1",SPORTV-2-HD
+#EXTINF:-1 group-title="GW",SPORTV-2-HD
 http://177.52.24.163/SPORTV-2-HD/index.m3u8
-#EXTINF:-1 group-title="GW1",UK| MUTV FHD
+#EXTINF:-1 group-title="GW",UK| MUTV FHD
 http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=45324&extension=ts&play_token=6Lj5aDMtOS
-#EXTINF:-1 group-title="GW1",UK| MUTV HEVC FHD
+#EXTINF:-1 group-title="GW",UK| MUTV HEVC FHD
 http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=1458773&extension=ts&play_token=XsJ1hYMdmZ
-#EXTINF:-1 group-title="GW1",UK| MUTV HEVC HD
+#EXTINF:-1 group-title="GW",UK| MUTV HEVC HD
 http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=1458772&extension=ts&play_token=iqsLM2oC3z
-#EXTINF:-1 group-title="GW1",NZ| MUTV
+#EXTINF:-1 group-title="GW",NZ| MUTV
 http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=814497&extension=ts&play_token=5gGxsipal4
-#EXTINF:-1 group-title="GW1",Willow Cricket
+#EXTINF:-1 group-title="GW",Willow Cricket
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 
 
 
-
-
-
-#EXTINF:-1 group-title="GW2",AMC
+#EXTINF:-1 group-title="GW",AMC
 http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 group-title="GW2",A&E TV
+#EXTINF:-1 group-title="GW",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
-#EXTINF:-1 group-title="GW2",CBS News 24/7
+#EXTINF:-1 group-title="GW",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="GW2",CNBC
+#EXTINF:-1 group-title="GW",CNBC
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="GW2",CNN
+#EXTINF:-1 group-title="GW",CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
-#EXTINF:-1 group-title="GW2",Comet TV
+#EXTINF:-1 group-title="GW",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-#EXTINF:-1 group-title="GW2",Court TV
+#EXTINF:-1 group-title="GW",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 group-title="GW2",NBC News NOW
+#EXTINF:-1 group-title="GW",NBC News NOW
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="GW2",Newsmax TV
+#EXTINF:-1 group-title="GW",Newsmax TV
 http://rtmp.antik.sk/newsmax/tracks-v1a1/mono.m3u8
 
 
 
 
 
-
-#EXTINF:-1 tvg-id="554949" group-title="Group_407",HK| NOW SPORTS 1 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554949&extension=ts&play_token=OWeEc2PlPC
-#EXTINF:-1 tvg-id="554948" group-title="Group_407",HK| NOW SPORTS 2 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554948&extension=ts&play_token=NrgS9sEz4m
-#EXTINF:-1 tvg-id="554947" group-title="Group_407",HK| NOW SPORTS 3 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554947&extension=ts&play_token=RSTv3iN2Kx
-#EXTINF:-1 tvg-id="554946" group-title="Group_407",HK| NOW SPORTS 4 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554946&extension=ts&play_token=DAYiNMyCHI
-#EXTINF:-1 tvg-id="554945" group-title="Group_407",HK| NOW SPORTS 5 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554945&extension=ts&play_token=89vn7NUCFd
-#EXTINF:-1 tvg-id="554944" group-title="Group_407",HK| NOW SPORTS 6 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554944&extension=ts&play_token=6S4wuiqMl7
-#EXTINF:-1 tvg-id="554943" group-title="Group_407",HK| NOW SPORTS 7 HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554943&extension=ts&play_token=0AKps5L8fd
-
-
-
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN 1 24/7
-http://89.187.179.148:826/live/1368/gXwiagaXda/118609.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN RINGSIDE
-http://89.187.179.148:826/live/1368/gXwiagaXda/119958.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 01
-http://89.187.179.148:826/live/1368/gXwiagaXda/117372.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 02
-http://89.187.179.148:826/live/1368/gXwiagaXda/117373.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 03
-http://89.187.179.148:826/live/1368/gXwiagaXda/117374.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 04
-http://89.187.179.148:826/live/1368/gXwiagaXda/117375.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 05
-http://89.187.179.148:826/live/1368/gXwiagaXda/117376.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 06
-http://89.187.179.148:826/live/1368/gXwiagaXda/117377.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 07
-http://89.187.179.148:826/live/1368/gXwiagaXda/117378.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 08
-http://89.187.179.148:826/live/1368/gXwiagaXda/117379.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 09
-http://89.187.179.148:826/live/1368/gXwiagaXda/117380.ts
-#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 10
-http://89.187.179.148:826/live/1368/gXwiagaXda/117381.ts
