@@ -548,3 +548,30 @@ http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=554943&extens
 
 
 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN 1 24/7
+http://89.187.179.148:826/live/1368/gXwiagaXda/118609.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN RINGSIDE
+http://89.187.179.148:826/live/1368/gXwiagaXda/119958.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 01
+http://89.187.179.148:826/live/1368/gXwiagaXda/117372.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 02
+http://89.187.179.148:826/live/1368/gXwiagaXda/117373.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 03
+http://89.187.179.148:826/live/1368/gXwiagaXda/117374.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 04
+http://89.187.179.148:826/live/1368/gXwiagaXda/117375.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 05
+http://89.187.179.148:826/live/1368/gXwiagaXda/117376.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 06
+http://89.187.179.148:826/live/1368/gXwiagaXda/117377.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 07
+http://89.187.179.148:826/live/1368/gXwiagaXda/117378.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 08
+http://89.187.179.148:826/live/1368/gXwiagaXda/117379.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 09
+http://89.187.179.148:826/live/1368/gXwiagaXda/117380.ts
+#EXTINF:-1 tvg-id="None" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Category_635",DAZN CA 10
+http://89.187.179.148:826/live/1368/gXwiagaXda/117381.ts
