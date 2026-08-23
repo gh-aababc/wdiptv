@@ -481,23 +481,6 @@ https://xemzi.short.gy/2000010
 
 
 
-#EXTINF:-1 group-title="GW",SPORTV-1-HD
-http://177.52.24.163/SPORTV-1-HD/index.m3u8
-#EXTINF:-1 group-title="GW",SPORTV-2-HD
-http://177.52.24.163/SPORTV-2-HD/index.m3u8
-#EXTINF:-1 group-title="GW",UK| MUTV FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=45324&extension=ts&play_token=6Lj5aDMtOS
-#EXTINF:-1 group-title="GW",UK| MUTV HEVC FHD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=1458773&extension=ts&play_token=XsJ1hYMdmZ
-#EXTINF:-1 group-title="GW",UK| MUTV HEVC HD
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=1458772&extension=ts&play_token=iqsLM2oC3z
-#EXTINF:-1 group-title="GW",NZ| MUTV
-http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=814497&extension=ts&play_token=5gGxsipal4
-#EXTINF:-1 group-title="GW",Willow Cricket
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-
-
-
 #EXTINF:-1 group-title="GW",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 group-title="GW",A&E TV
@@ -516,6 +499,35 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="GW",Newsmax TV
 http://rtmp.antik.sk/newsmax/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="GW1",SPORTV-1-HD
+http://177.52.24.163/SPORTV-1-HD/index.m3u8
+#EXTINF:-1 group-title="GW1",SPORTV-2-HD
+http://177.52.24.163/SPORTV-2-HD/index.m3u8
+#EXTINF:-1 group-title="GW1",UK| MUTV FHD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=45324&extension=ts&play_token=6Lj5aDMtOS
+#EXTINF:-1 group-title="GW1",UK| MUTV HEVC FHD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=1458773&extension=ts&play_token=XsJ1hYMdmZ
+#EXTINF:-1 group-title="GW1",UK| MUTV HEVC HD
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=1458772&extension=ts&play_token=iqsLM2oC3z
+#EXTINF:-1 group-title="GW1",NZ| MUTV
+http://185.80.197.65:80/play/live.php?mac=00:1A:79:D6:25:6B&stream=814497&extension=ts&play_token=5gGxsipal4
+#EXTINF:-1 group-title="GW1",Willow Cricket
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 group-title="GW1",UK| ASTRO Grandstand
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:48:4D:8E&stream=918984&extension=ts&play_token=BWN9LLK6As
+#EXTINF:-1 group-title="GW1",UK| BEIN SPORTS ASIA 1
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:48:4D:8E&stream=923432&extension=ts&play_token=zfUOgO5Htm
+#EXTINF:-1 group-title="GW1",UK| UK| BEIN SPORTS ASIA 3
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:48:4D:8E&stream=923430&extension=ts&play_token=vt1OLNRZhf
+#EXTINF:-1 group-title="GW1",PARAMOUNT NETWORK
+http://89.187.179.148:826/live/1368/gXwiagaXda/1434.ts
+#EXTINF:-1 group-title="GW1",PARAMOUNT NETWORK (SD)
+http://89.187.179.148:826/live/1368/gXwiagaXda/96929.ts
+
+
 
 
 
