@@ -468,23 +468,6 @@ https://xemzi.short.gy/1000015
 https://xemzi.short.gy/1000017
 #EXTINF:-1 group-title="GW",Sky news
 https://xemzi.short.gy/1000018
-#EXTINF:-1 group-title="GW",Sky Sports Premier League
-https://xemzi.short.gy/2000002
-#EXTINF:-1 group-title="GW",Sky Sports F1
-https://xemzi.short.gy/2000005
-#EXTINF:-1 group-title="GW",Sky Sports Cricket HD
-https://xemzi.short.gy/2000006
-#EXTINF:-1 group-title="GW",Sky Sports Golf HD
-https://xemzi.short.gy/2000009
-#EXTINF:-1 group-title="GW",Sky Sports racing
-https://xemzi.short.gy/2000010
-
-
-
-#EXTINF:-1 group-title="GW",AMC
-http://23.239.31.26:8989/amc/index.m3u8
-#EXTINF:-1 group-title="GW",A&E TV
-http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 group-title="GW",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="GW",CNBC
